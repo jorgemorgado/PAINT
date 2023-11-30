@@ -38,7 +38,7 @@ F:\>PAINT.EXE
 
 This was a school project around 1993-94. The code is heavily commented because that was required for the grading.
 
-I don't remember exactly but I think the project was to write something in C but using some Object-Oriented Programming concepts. In this case that would be the different shapes (structures in [GLOBAL.H](src/GLOBAL.H)).
+I don't remember exactly but I think the project was to write an application in C using some Object-Oriented Programming concepts. In this case that would be the different shapes (structures in [GLOBAL.H](src/GLOBAL.H)). This was my idea, and I take full ownership for it :)
 
 ## License
 
